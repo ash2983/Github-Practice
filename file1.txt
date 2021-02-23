@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some code from firstfeature
+=======
+some text from secondfeature branch
+>>>>>>> secondfeature
